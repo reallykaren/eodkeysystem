@@ -1,0 +1,3 @@
+key = "RzBin599"
+
+return key
